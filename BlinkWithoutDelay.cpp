@@ -1,6 +1,6 @@
 
-#include "gdb.h"
 
+#include "BlinkWithoutDelay.h"
 // constants won't change. Used here to set a pin number :
 const int ledPin =  13;      // the number of the LED pin
 
@@ -11,8 +11,6 @@ int ledState = LOW;             // ledState used to set the LED
 // The value will quickly become too large for an int to store
 unsigned long previousMillis = 0;        // will store last time LED was updated
 
-// constants won't change :
-const long INTERVAL = 1000;           // interval at which to blink (milliseconds)
 
 void RAMFUNC setup() {
 	#ifdef DEBUG
