@@ -57,5 +57,10 @@
 			<type>2</type>
 			<location>G:/Arduino_Hardware/Jantje_Arduino_libraries/gdb</location>
 		</link>
+		<link>
+			<name>libraries/gtest</name>
+			<type>2</type>
+			<location>G:/Arduino_Hardware/Jantje_Arduino_libraries/gtest</location>
+		</link>
 	</linkedResources>
 </projectDescription>
