@@ -35,7 +35,7 @@
 		<link>
 			<name>core/core</name>
 			<type>2</type>
-			<location>G:/Arduino_Hardware/hardware/jantje/avr_local/cores/arduino</location>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/Jantje/hardware/pc/1.0.2/cores/arduino</locationURI>
 		</link>
 		<link>
 			<name>core/variant</name>
@@ -45,12 +45,12 @@
 		<link>
 			<name>libraries/Servo</name>
 			<type>2</type>
-			<location>G:/Arduino_Hardware/hardware/jantje/avr_local/libraries/Servo</location>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/Jantje/hardware/pc/1.0.2/libraries/Servo</locationURI>
 		</link>
 		<link>
 			<name>libraries/Wire</name>
 			<type>2</type>
-			<location>G:/Arduino_Hardware/hardware/jantje/avr_local/libraries/Wire</location>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/Jantje/hardware/pc/1.0.2/libraries/Wire</locationURI>
 		</link>
 		<link>
 			<name>libraries/gdb</name>

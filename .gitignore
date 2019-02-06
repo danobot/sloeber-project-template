@@ -1,3 +1,4 @@
 sloeber.ino.cpp
 esp_debug/
 /esp_release/
+/esp_debug_local/
