@@ -24,7 +24,7 @@
 #include "gdb.h"
 
 // constants won't change. Used here to set a pin number :
-const int ledPin =  D3;      // the number of the LED pin
+const int ledPin =  13;      // the number of the LED pin
 
 // Variables will change :
 int ledState = LOW;             // ledState used to set the LED

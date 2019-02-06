@@ -34,12 +34,12 @@
 		<link>
 			<name>core/core</name>
 			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266</locationURI>
+			<location>G:/Arduino_Hardware/hardware/jantje/avr_local/cores/arduino</location>
 		</link>
 		<link>
 			<name>core/variant</name>
 			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.3.0/variants/nodemcu</locationURI>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/avr/1.6.23/variants/standard</locationURI>
 		</link>
 		<link>
 			<name>libraries/esp8266</name>
@@ -49,7 +49,7 @@
 		<link>
 			<name>libraries/gdb</name>
 			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/Jantje/hardware/esp8266/1.0.0/libraries/gdb</locationURI>
+			<location>G:/Arduino_Hardware/Jantje_Arduino_libraries/gdb</location>
 		</link>
 	</linkedResources>
 </projectDescription>
