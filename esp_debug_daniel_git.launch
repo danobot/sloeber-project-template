@@ -19,10 +19,10 @@
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
 <booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN_SYMBOL" value="setup"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="esp_debug_local/ESP8266-sloeber-demo.exe"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="esp_debug_local\ESP8266-sloeber-demo.exe"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="ESP8266-sloeber-demo"/>
 <booleanAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_AUTO_ATTR" value="false"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="io.sloeber.core.toolChain.release.1245639148.21368419.572767286"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/ESP8266-sloeber-demo"/>
 </listAttribute>

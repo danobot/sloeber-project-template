@@ -1906,7 +1906,7 @@ environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.C.COMPILE/value=
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.COMPILE/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.COMPILE/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.COMPILE/value=
+environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.COMPILE/value=-m32
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.CPP.COMPILE/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.CPP.COMPILE/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.572767286/JANTJE.EXTRA.CPP.COMPILE/value=
