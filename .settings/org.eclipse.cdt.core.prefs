@@ -349,7 +349,7 @@ environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.101803
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.BOARD_NAME/value=Arduino Uno
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.COM_PORT/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.COM_PORT/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.COM_PORT/value=COM12
+environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.COM_PORT/value=
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.ECLIPSE_LOCATION/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.ECLIPSE_LOCATION/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.ECLIPSE_LOCATION/value=C\:\\tools\\sloeber4.3.1\\
@@ -379,7 +379,7 @@ environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.101803
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.MAKE_LOCATION/value=C\:\\tools\\sloeber4.3.1\\arduinoPlugin\\tools\\make\\
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.MENU/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.MENU/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.MENU/value=CpuFrequency\=80\nDebug\=Serial\nDebugLevel\=CORE\nFlashErase\=all\nFlashSize\=4M1M\nLwIPVariant\=v2mss536\ntype\=debug\nUploadSpeed\=921600\nVTable\=iram
+environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.MENU/value=CpuFrequency\=80\nDebug\=Serial\nDebugLevel\=CORE\nFlashErase\=all\nFlashSize\=4M1M\nLwIPVariant\=v2mss536\ntype\=debug\nUploadSpeed\=115200\nVTable\=iram
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.OBJCOPY/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.OBJCOPY/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419.1018038514/JANTJE.OBJCOPY/value=${A.RECIPE.OBJCOPY.HEX.PATTERN}
@@ -957,7 +957,7 @@ environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.UPLOAD/value=Default
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WARNING_LEVEL/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WARNING_LEVEL/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WARNING_LEVEL/value=true
+environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WARNING_LEVEL/value=false
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WORKSPACE_LOCATION/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WORKSPACE_LOCATION/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1245639148.21368419/JANTJE.WORKSPACE_LOCATION/value=G\:\\Repos\\sloeber-workspace-new
